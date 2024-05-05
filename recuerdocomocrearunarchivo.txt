@@ -1,7 +1,3 @@
-Esta es una modificación para tener algo corregido
+Esta es una modificación para tener algo para ver
 
-Y añadí algo para tener algo añadido
-
-Cambio después de html y css
-
-Segundo cambio después de html y css
+Cambio donde reemplazo el archivo
