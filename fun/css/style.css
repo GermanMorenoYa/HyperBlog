@@ -1,0 +1,15 @@
+body
+{
+    color: white;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 25px;
+    margin: auto;
+    padding: auto;
+}
+
+#content
+{
+    background: #33A;
+    
+}
